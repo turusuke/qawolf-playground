@@ -1,0 +1,23 @@
+{
+  "name": "qawolf-playground",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turusuke/qawolf-playground.git"
+  },
+  "author": "turusuke <mail@turusuke.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turusuke/qawolf-playground/issues"
+  },
+  "homepage": "https://github.com/turusuke/qawolf-playground#readme",
+  "devDependencies": {
+    "qawolf": "^0.9.2"
+  }
+}
