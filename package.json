@@ -19,5 +19,8 @@
   "homepage": "https://github.com/turusuke/qawolf-playground#readme",
   "devDependencies": {
     "qawolf": "^1.0.0"
+  },
+  "dependencies": {
+    "playwright-core": "^1.0.1"
   }
 }
