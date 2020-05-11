@@ -5,7 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "qawolf test"
   },
   "repository": {
     "type": "git",
@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/turusuke/qawolf-playground#readme",
   "devDependencies": {
+    "jest": "^26.0.1",
+    "playwright": "^1.0.0",
     "qawolf": "^1.0.0"
   },
-  "dependencies": {
-    "playwright-core": "^1.0.1"
-  }
+  "dependencies": {}
 }
